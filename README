@@ -5,3 +5,6 @@ Just a useful way to take advantage of a dependency when it's there, and not fre
 
 WHOAMI
 Mathieu Martin => webmat@gmail.com
+
+This was inspired by my own article "irbrc for the runtime tramp"
+http://programblings.com/2008/04/11/irbrc-for-the-runtime-tramp/
