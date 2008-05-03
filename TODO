@@ -1,0 +1,3 @@
+- Be able to make silent.
+- Way to pass a block of actions to take if the require fails?
+- check vs ruby require, rubygems require, active_support require and merb-core dependency to see if there are any gotchas, thinks to think about.
