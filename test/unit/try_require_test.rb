@@ -1,5 +1,11 @@
 require File.join( File.dirname(__FILE__), '..', 'test_helper' )
 
+=begin
+TODO for tests
+- redirect stdout and check result
+- test the execution of the code block in each scenario
+=end
+
 class TryRequireTest < Test::Unit::TestCase
 
   def test_require_something_from_ruby_core
